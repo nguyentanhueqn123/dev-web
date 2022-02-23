@@ -1,0 +1,27 @@
+Lập trình web – Bạn muốn học nhưng không biết từ đâu?
+Vậy là bạn có hứng thú với lập trình web và muốn trở thành một web developer? Trước tiên, xin chúc mừng vì bạn đã có một lựa chọn khá đúng đắn. Và khi bạn đọc bài viết này thì cũng có nghĩa bạn xài khá rành rọt Facebook, lên đọc Medium và các blog online. Tất cả những nơi đấy đều là nguồn tuyệt vời để học lập trình.
+
+Một lần nữa, tôi xin chúc mừng bạn vì những hành động tuyệt vời trên. Tuy thuộc vào background của bạn mà bản thân sẽ tự hỏi rằng không biết nên bắt đầu từ đâu để học lập trình web. Nếu bạn thử Google thì có lẽ sẽ cảm thấy khá choáng bởi hằng sa các loại ngôn ngữ lập trình cần phải học cũng như các framework và nguồn để học.
+
+Nhưng đừng lo lắng, bởi không chỉ có mình bạn gặp vấn đề này. Google có thể là người bạn tốt nhất những cũng có thể là kẻ thù nguy hiểm nhất. Nó hoàn toàn phụ thuộc vào cách bạn sử dụng.
+
+Những lời khuyên về lập trình web
+Tôi khuyên các bạn khi muốn làm về web thì hãy xác định mục đích rõ ràng cuối cùng của bạn là gì. Bạn muốn thay đổi sự nghiệp. Hoặc là bạn có một ý tưởng cực độc cho app. Hay chỉ đơn giản là bạn muốn học cho vui.
+Cứ cho là bạn hoàn toàn mới và không biết gì về lập trình web luôn. Thế thì bạn nên suy nghĩ và đưa ra lựa chọn giữa Back-end và Front-end. Tôi sẽ giải thích sơ lược sự khác biệt giữa chúng.
+
+Frontend  – đây là những gì mà user sẽ nhìn thấy và tương tác với khi vào website. Nó hoàn toàn là về design, hiệu ứng bóng bẩy, layout và hình ảnh nhằm tạo ra trải nghiệm sử dụng cho khách hàng.
+
+Thông thường frontend developer rất giỏi về sáng tạo hình ảnh, kĩ năng design giỏi và có đam mê với việc tạo ra trải nghiệm cho người dùng tốt nhất. Các công nghệ thường được sử dụng bởi frontend developer bao gồm HTML, CSS, jQuery và JavaScript.
+
+Tham khảo thêm các vị trí tuyển dụng Front end lương cao.
+
+Backend – Đây là phần về xử lí, lưu trữ và sử dụng Data. Nó là cách mà web và app hoạt động. Backend developer là những người giỏi giải quyết vấn đề, suy nghĩ logic và có sở thích với các tính năng của web và app. Lập trình Backend thường dùng tới PHP, Python, Golang, Java, Javascript và Ruby.
+
+Trong trường hợp của tôi, ngày từ đầu đã biết chắc rằng mình không phù hợp với visual design của bên frontend. Có lẽ là nhờ vào việc tôi từng học về kỹ thuật và xây dựng nên việc ra quyết định khá dễ và rõ ràng. Tôi thuộc vào nhóm giải quyết vấn đề và vận hành hơn là làm đẹp cho sản phẩm.
+
+Sau đó bạn nên chọn cho mình 1 editor yêu thích để code trên như VS Code hay Sublime Text. Sau đó chọn ngôn ngữ lập trình nào dễ học dễ làm vd như tôi chọn Php để lao vào vọc ngay, tải các tài liệu học lập trình web liên quan đến php để nắm căn bản. Sau khi nắm căn bản rồi chọn một framework trong các framework php mà viết trang web đầu tiên của mình.
+Giờ là lúc thực hành, có thể sẽ rất khó khi bạn mới thử. Chúng ta có quá nhiều thứ để lo như học, làm, gia đình, v.v… nên thời gian không hề dư dả gì.
+
+Thế nên sự kiên trì, nhất quán chính là chìa khóa thành công. Bạn sẽ biết nhiều hơn với mỗi giờ học code mỗi ngày hơn là học 7 giờ trong một ngày.
+
+Con người là sinh vật của thói quen. Vì thế hãy biến việc viết code thành thói quen hàng ngày.
